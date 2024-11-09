@@ -1,0 +1,12 @@
+[submodule "iot"]
+	path = iot
+	url = https://github.com/Marcosciaco/MoppifyIOT
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/SimoneFerraris/moppifyFrontend/
+[submodule "backend"]
+	path = backend
+	url = https://github.com/simonmx1/moppifyBackend
+[submodule "cv"]
+	path = cv
+	url = https://github.com/dododevs/moppify-cv
